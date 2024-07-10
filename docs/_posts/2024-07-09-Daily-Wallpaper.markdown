@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Daily Wallpaper Privacy Policy"
+title:  "Daily Wallpaper"
 date:   2024-07-09 19:00:00 +0700
 categories: Android
 ---
