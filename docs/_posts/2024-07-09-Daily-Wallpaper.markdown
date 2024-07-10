@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Android Interview"
-date:   2023-08-04 19:00:00 +0700
+title:  "Daily Wallpaper Privacy Policy"
+date:   2024-07-09 19:00:00 +0700
 categories: Android
 ---
 **Privacy Policy**
