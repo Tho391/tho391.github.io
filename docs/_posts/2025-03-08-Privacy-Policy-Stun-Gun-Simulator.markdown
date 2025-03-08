@@ -20,7 +20,6 @@ Our App is designed to be simple and privacy-focused. We want to be transparent 
 ## App Permissions
 Our App requires the following permissions to function:
 - Audio: To play sound effects
-- Storage: To access and display images
 
 ## Third-Party Services
 Our App may use third-party services that may collect information used to identify you:
